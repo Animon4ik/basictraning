@@ -1,0 +1,48 @@
+body {
+ background-color: gray;
+ color:navy;
+ font-size: 16px;
+ font-weight: normal;
+
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+.avatar{
+    color: black;
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 0px 0px 20px 5px
+
+}
+.info h1 {
+text-decoration: underline;
+font-size:xx-large;
+font-weight: 500;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.word p {
+    font-style: italic;
+
+}
+
+a {
+ color: black;   
+ text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: ivory;
+
+}
+.conteiner {
+    width: 70%;
+    margin: 0 auto ;
+    background:lightyellow;
+    padding: 0px 20px 0px 20px;
+
+}
